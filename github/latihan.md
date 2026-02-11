@@ -8,7 +8,7 @@ Please report any errors you find by opening an Issue and clearly referencing th
 
 ## Instructions
 
-1. Preheat the oevn to 180 celcius before starting.
+1. Preheat the oven to 180 celcius before starting.
 2. Greese a large cassarole dish lightly with buter.
 3. In a seperate bowl, mix the ingrediants thouroughly.
 4. Whisk the egges untill smooth and sligthly frothy.
