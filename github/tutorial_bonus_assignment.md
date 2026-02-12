@@ -1,7 +1,7 @@
 # Raise an issue
 1. Find the issue.
 2. Click `New issue`
-![](./aset/01_create_issue.svg)
+![](../aset/01_create_issue.svg)
 3. Create new issue and click `Create`
 
 # Volunteer to fix an issue
