@@ -28,3 +28,11 @@ Please report any errors you find by opening an Issue and clearly referencing th
 18. Garnish with the reserved parsly finaly and a drizle of oil.
 19. Allow the flavors to meld naturaly for best tast and resluts.
 20. Serve immediatly while hot and enoy your familiy meal.
+
+**Note for participants:**  
+More exercise - click the link below.
+
+<div style="margin: 30px 0; padding: 16px 22px; background-color: #f6f8fa; border-left: 4px solid #d0d7de; 
+font-style: italic; color: #57606a border-radius: 6px;">
+The warm richness of this dish is perfectly balanced by the bright, refreshing of a fresh lemon drink. Check out the recipe <a href="drink_recipe.md">here</a>.
+</div>
